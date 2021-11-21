@@ -1,5 +1,5 @@
-import com.lme.Coordinate;
-import com.lme.Robot;
+package com.lme;
+
 import com.lme.exception.InvalidInputException;
 
 import java.util.Arrays;

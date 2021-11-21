@@ -1,5 +1,6 @@
 import com.lme.Coordinate;
 import com.lme.Robot;
+import com.lme.RobotOperator;
 import com.lme.exception.InvalidInputException;
 import org.junit.Test;
 

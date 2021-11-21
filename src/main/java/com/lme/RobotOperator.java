@@ -1,3 +1,5 @@
+package com.lme;
+
 import com.lme.Coordinate;
 import com.lme.Robot;
 import com.lme.exception.InvalidInputException;
